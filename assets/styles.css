@@ -157,3 +157,13 @@ footer {
     padding: 5px;
     margin: 10px;
 }
+
+@media screen and (max-width: 992px) {
+    .work {
+        width: 50%;
+    }
+}
+@media screen and (max-width: 600px) {
+    .work {
+        width: 100%;
+    }   
