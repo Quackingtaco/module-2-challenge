@@ -14,4 +14,4 @@ Repository: https://github.com/Quackingtaco/module-2-challenge
 Live page: https://quackingtaco.github.io/module-2-challenge/
 
 ## Screenshot
-![Alt text](./assets\images\Screenshot 2023-08-03 154212.png?raw=true "Portfolio")
+![Alt text](assets\images\Screenshot 2023-08-03 154212.png?raw=true "Portfolio")
