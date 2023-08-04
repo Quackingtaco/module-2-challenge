@@ -97,7 +97,7 @@ a:active {
     display: flex;
     flex-direction: column;
     flex: 1 1 1;
-    width: auto;
+    width: 35%;
     padding: 2px;
     order: 2;
     text-align: center;
@@ -110,7 +110,7 @@ a:active {
     display: flex;
     flex-direction: column;
     flex: 1 1 1;
-    width: auto;
+    width: 35%;
     padding: 2px;
     order: 3;
     text-align: center;
@@ -124,7 +124,7 @@ a:active {
     display: flex;
     flex-direction: column;
     flex: 1 1 1;
-    width: auto;
+    width: 35%;
     padding: 2px;
     order: 4;
     text-align: center;
@@ -139,8 +139,8 @@ a:active {
     font-size: 30px;
 }
 
-/*make the first card larger*/
-.card1 img {
+/*card image width*/
+.card1 img, .card2 img, .card3 img, .card4 img {
     width: 100%;
 }
 
